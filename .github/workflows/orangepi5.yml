@@ -1,4 +1,4 @@
-name: Rockchip
+name: orangepi5
 
 on:
   repository_dispatch:
